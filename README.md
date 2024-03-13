@@ -2,9 +2,9 @@
 
 ### Would you like to visit my profile page: https://yzddzy.github.io
 
-I am currently a junior student at SJTU, having enrolled in 2021.
-My areas of interest include security in machine learning, cryptography, and wireless sensing.
-I am seeking opportunities for a Research Assistantship or PhD position in the field of security in machine learning.
+I am currently a junior student at SJTU, having enrolled in 2021.<br>
+My areas of interest include security in machine learning, cryptography, and wireless sensing.<br>
+I am seeking opportunities for a Research Assistantship or PhD position in the field of security in machine learning.<br>
 
 I love running 🏃‍♀️, traveling ✈️,and reading📘.  
 
