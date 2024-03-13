@@ -1,6 +1,6 @@
 ## Hi there, I'm Zidong Yang! 👋
 
-### 想来看看我的主页吗: https://yzddzy.github.io
+### Would you like to visit my profile page: https://yzddzy.github.io
 
 I am currently a junior student at SJTU, having enrolled in 2021.
 My areas of interest include security in machine learning, cryptography, and wireless sensing.
