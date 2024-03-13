@@ -1,16 +1,16 @@
-### Hi there 👋
+## Hi there, I'm Zidong Yang! 👋
 
-<!--
-**yzddzy/yzddzy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 想来看看我的主页吗: https://yzddzy.github.io
 
-Here are some ideas to get you started:
+I am currently a junior student at SJTU, having enrolled in 2021.
+My areas of interest include security in machine learning, cryptography, and wireless sensing.
+I am seeking opportunities for a Research Assistantship or PhD position in the field of security in machine learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+I love running 🏃‍♀️, traveling ✈️,and reading📘.  
+
+Let's passionate!
+## Get in touch
+
+[![GitHub](https://img.shields.io/badge/GitHub-grey?logo=github)](https://github.com/yzddzy)
+
 -->
